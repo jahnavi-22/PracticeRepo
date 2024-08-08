@@ -4,7 +4,7 @@ public class Hello {
     public enum Status {
         ACTIVE,
         INACTIVE,
-        PENDING,
+        UNRESOLVED,
         COMPLETED
     }
 
